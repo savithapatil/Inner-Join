@@ -2,4 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-{{ site.theme_color | default: "#db5945" }};
