@@ -2,10 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-$header-bg-color: #db5945;
-$header-bg-color-secondary: #db5945;
-
-$body-link-color: #db5945;
-$blockquote-text-color: #db5945;
-
-$code-text-color: #db5945;
+theme-color: #db5945;
