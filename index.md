@@ -28,8 +28,7 @@ FROM Orders INNER JOIN Customers ON Orders.CustID=Customers.CustID;
 ![Image](https://lh3.googleusercontent.com/n7FLlmq-FYZ_0NJFpJxkuIQSe6xdhBE0E9n-pkVL7Nn0g-3YSKgqQdekENOOOSjDiX4Q6lwtXJrSLcJgnonovjhoyYUSuUOodpJE-B7IVbpL5Z45JsRZP-39_nGoT_iijY4EXEfzAsUGYOjAtSMJaoL7UbHRt20oldctNAF5ulC10JL_RZicxcFbFymwZk8x2azoT2s_EILZjzmicGykuYaNgXm6-pmBhPEbwpyvNVjotADRts0lw7NBei1nPpew-9X8n2n_LgsLBvs97E_SrRZ4m3Vtx_3rXWfRp6R6T1Zul7EjtaY4Q00fxjgN41imlupDnqgO4PS0vOdnYSyiT-sPexNNAYQ0A8zDbQRwaYvULvtx13fZR80uyZ14BhKxjvSJqnlVN7dD9o5pZ4_ViIxd7c_xXP7sqFfqnwKcTj_twLXmu2M9Zj9OaFsMkxM2hLxrRmkUuXzNs-8-rcND9RNGaqc_oHfHhYbCzxiyCt8yBMWmZusMQBGGBOpvdxhF7BEWPVuofB5E575t8jwPUETcqrocSPlELn0K1TQB3UfpetWZVqx62sWLrINlY3d5kkY4DkZnn9tqAJMh2RjgfLmWD2yhIN-jwdD7SB2J7dYtFOtNgeztpAhpAOlskAUbeNkIB57Eyq-nImpdqaRw1mnK0pouPwCI=w1284-h157-no)
 
 ## The result of the following statement...
-```
-SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate 
+```SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate 
 FROM Orders INNER JOIN Customers ON Orders.CustID=Customers.CustID;
 ```
 ## ...is shown below:
