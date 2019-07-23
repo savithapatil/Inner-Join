@@ -1,2 +1,2 @@
-<!--random words asdfasdf-->
-# Trying something out here
+<!--This is how you comment something out in md-->
+# Inner Join
