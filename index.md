@@ -15,7 +15,7 @@
 ```
 SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 ```
-The **SELECT** statement above shows which columns between the two tables are going to be included in the output.
+## The **SELECT** statement above shows which columns between the two tables are going to be included in the output.
 
 ![Image](https://lh3.googleusercontent.com/-_ReRnvFzoj7bSNTJimjs0_xD-4uVbWX5NsUI5w39CYM2HMBlzYVPFnaDBvdb44NsGuQS2oeFKsQZ5jmUq2NEB2PLe48dnTO7Lec7T26CORnnZmPJpXG1TGHfQkz4YVqU-b9bqDtU4NgsjL9w5YeaBSz3fYGenQ96uPvYG_BIzB3r3Vz6zs9kyqSaXtWGB56bQ2NXh2wusMhLCBSyyh-rLTJIemN3DE6FGJ6VylsfBXCbkOR6nSKUYp2n3OJqceTVQm2DhaRy31gwEAWB335PxMZCAdXAClKfA3YeTTdOl3J-6-Nr0-uW4hjCvv2KT6g-Wh9kK0bY9334DZ484Cco92ozfB3D3ieWxuS2x8lFtKN4fQrA5zFECzW9bYp9xvDl1usucrKIwHKSevkVxK6To887KnZAQQ221IaRlxQMLf1Qz7dskW8dBI4uxBSSdtmQe9PisbC1Rt5wtZMZyMSi0Hr6ekDTy4s_MB1FwrHqNhqbzfSuxYVH8eAoy7ufpNIWuNaDuarPZAb2J6lLwa2ZUO424kyQ6CDwwh-Q3bRanFB3HVXca1_IKqUWUloTHrhQs-mngBnrr6U40FUQy4qQUu-IZmwPYS3QdjA3qHzs0wcEilAcLw2E0R1YjHfiOld01aNcbaqCF6LTiilFBiaRCVajz0avj6d=w376-h147-no)
 
