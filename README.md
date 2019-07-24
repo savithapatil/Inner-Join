@@ -1,3 +1,3 @@
-# Click this link to visit the page: [Inner Join](https://savithapatil.github.io/Inner-Join/)
+# Click this link to visit the project page: [Inner Join](https://savithapatil.github.io/Inner-Join/)
 
-## Or, [View on GitHub](https://github.com/savithapatil/Inner-Join/blob/master/index.md)
+## Or, [view it on GitHub](https://github.com/savithapatil/Inner-Join/blob/master/index.md)
