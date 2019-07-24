@@ -31,7 +31,8 @@ FROM Orders INNER JOIN Customers ON Orders.CustID=Customers.CustID;
 
 
 ## The result of the following statement...
-```SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate 
+```
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate 
 FROM Orders INNER JOIN Customers ON Orders.CustID=Customers.CustID;
 ```
 ## ...is shown below:
